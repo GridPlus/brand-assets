@@ -14,7 +14,7 @@ Please refer to the Brand Manual included in this repo for usage guidelines and 
 
 Twitter: [https://twitter.com/GridPlus](https://twitter.com/GridPlus)
 
-Knowledge Base: [https://www.reddit.com/r/GridPlus/](https://docs.gridplus.io/)
+Knowledge Base: [https://docs.gridplus.io/](https://docs.gridplus.io/)
 
 YouTube: [https://www.youtube.com/@GridPlus](https://www.youtube.com/@GridPlus)
 
