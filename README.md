@@ -12,13 +12,13 @@ Please refer to the Brand Manual included in this repo for usage guidelines and 
 
 ## Social Media Accounts
 
-Twitter: https://twitter.com/GridPlus
+Twitter: [https://twitter.com/GridPlus](https://twitter.com/GridPlus)
 
-Blog: https://blog.gridplus.io/
+Knowledge Base: [https://www.reddit.com/r/GridPlus/](https://docs.gridplus.io/)
 
-Reddit: https://www.reddit.com/r/GridPlus/
+YouTube: [https://www.youtube.com/@GridPlus](https://www.youtube.com/@GridPlus)
 
-Discord Chat: https://discord.com/invite/Bt5fVDTJb9
+Discord Chat: [https://discord.gg/gridplus](https://discord.gg/gridplus)
 
 ## Press Inquiries
 
